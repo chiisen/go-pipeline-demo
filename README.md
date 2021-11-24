@@ -15,7 +15,6 @@ go 1.17
 
 輸入:
 go test
-(回傳 FAIL - 字串內容不一樣，改一樣就回傳 PASS)
 
 要去 Docker 建立 Token
 [docker hub - security](https://hub.docker.com/settings/security)
